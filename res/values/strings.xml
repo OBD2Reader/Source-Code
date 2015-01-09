@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScanDroid-DTC</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="test">Test</string>
+    <string name="btn_connect">CONNECT</string>
+    <string name="btn_check_dtc">Check DTC</string>
+    <string name="tv_dct">No Reading</string>
+    <string name="tv_make">Make</string>
+    <string name="tv_model">Model</string>
+    <string name="tv_year">Year</string>
+    <string name="tv_trouble_codes">Trouble Codes</string>
+    <string name="tv_vin">VIN</string>
+
+</resources>
